@@ -1,0 +1,27 @@
+[
+    {
+        "Emp ID": 677509,
+        "First Name": "Lois",
+        "Salary": 168251
+    },
+    {
+        "Emp ID": 940761,
+        "First Name": "Brenda",
+        "Salary": 51063
+    },
+    {
+        "Emp ID": 428945,
+        "First Name": "Joe",
+        "Salary": 50155
+    },
+    {
+        "Emp ID": 408351,
+        "First Name": "Diane",
+        "Salary": null
+    },
+    {
+        "Emp ID": 193819,
+        "First Name": "Benjamin",
+        "Salary": 117642
+    }
+]
